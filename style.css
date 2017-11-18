@@ -1,0 +1,82 @@
+.small-img > img {
+  border-radius: 32% 5% 10%;
+  height: 158px;
+  margin: 20px 0;
+  width: 100%;
+  position:relative;
+}
+.small-img{
+	
+}
+/* .overlay {
+  background: #000 none repeat scroll 0 0;
+  border-radius: 32% 5% 10%;
+  height: 158px;
+  margin: 20px 0;
+  position: absolute;
+  top: 0;
+  width: 90%;
+  opacity: 0.50;
+}
+.overlay:hover{
+	opacity:.0;
+	transition:3s;
+	cursor:pointer;
+} */
+.caption > a {
+  border-radius: 20px 3px;
+  color: #fff;
+  line-height: 50px;
+  background: #43A8FF;
+  padding: 10px;
+  text-decoration:none;
+}
+.caption > a:hover {
+	transition:3s;
+	color:#000;
+ background:transparent;
+}
+.product-title > a {
+  font-size: 18px;
+  font-weight: bold;
+}
+h6 {
+  color: red;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.homepage-aria{
+	position:relative;
+}
+.homepage-hero-area:after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    background: url(/img/7.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
